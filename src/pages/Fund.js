@@ -11,7 +11,7 @@ function Fund() {
         return (
           <div>
             <Link to={fundDetail.name}>
-            <h2>{fundDetail.name}</h2>
+            <div className="fund-link">{fundDetail.name}</div>
             </Link>
           </div>
           )

@@ -17,15 +17,15 @@ function FundsList(props) {
             {data.companies.map((company, index) => {
               return ( 
                   <div className="grid-item">
-                    <img src={company.logo} alt="Company Logo"></img>
+                    <img className="fund-logo" src={company.logo} alt="Company Logo"></img>
                     <h4>{company.name}</h4>
                      <hr className="data-rule-a"/>
                     <p className="card-copy">FOUNDED: <span className="blue">{company.founded}</span></p>
-                     <hr className="data-rule-b"/>
+                   
                     <p className="card-copy">COST: {company.cost}</p>
-                     <hr className="data-rule-b"/>
+                    
                     <p className="card-copy">VALUE: {company.impliedValue}</p>
-                     <hr className="data-rule-b"/>
+                    
                     <p className="card-copy">OWNERSHIP: {company.ownershipPercentage}%</p>
                   </div>
                 )

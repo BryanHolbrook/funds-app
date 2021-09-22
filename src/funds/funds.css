@@ -59,3 +59,9 @@
   padding: 2px;
   font-size: small;
 }
+
+.fund-logo {
+  max-width: 150px;
+  max-height: 90px;
+  min-height: 80px;
+}

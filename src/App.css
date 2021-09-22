@@ -10,13 +10,19 @@ h1,
 h2,
 h3,
 h4 {
-  margin-right: auto;
-  margin-left: auto;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
+  color: #222222;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 2px;
+}
+
+.support-copy {
+  font-size: 20px;
   color: #222222;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
@@ -40,7 +46,6 @@ ul {
 
 li {
   float: left;
-  /* border-right: 2px solid #e7e7e8; */
 }
 
 li a {
@@ -57,9 +62,9 @@ li a:hover {
   transition: 0.3s ease-in-out;
   color: #3786ec;
 }
-
 .header {
-  min-height: 100vh;
+  margin-top: 10vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -77,10 +82,21 @@ li a:hover {
 }
 
 .data-rule-a {
-  color: rgb(226, 226, 226);
-  width: 75%;
+  width: 55%;
 }
-.data-rule-b {
-  color: rgba(251, 251, 251, 0.692);
-  width: 75%;
+
+.fund-link {
+  text-decoration: none;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  background-color: #3786ec;
+  color: white;
+  border-radius: 100px;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
 }
