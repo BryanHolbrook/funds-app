@@ -1,0 +1,61 @@
+.grid-container {
+  margin-top: 1vw;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.grid-item {
+  width: auto;
+  height: auto;
+  max-height: 400px;
+  max-width: 400px;
+  min-height: 250px;
+  min-width: 250px;
+  box-shadow: 0 20px 30px -16px rgba(9, 9, 16, 0.2) !important;
+  border-radius: 1em;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transition: 0.3s ease-in-out;
+  font-weight: 300;
+  line-height: 2px;
+  font-stretch: extra-condensed;
+  background-color: white;
+  margin: 10px;
+  padding: 30px 5px 10px 5px;
+  border-color: #f1f7ff;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.grid-item:hover {
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  width: auto;
+  height: auto;
+  box-shadow: 0 2px 20px -6px black;
+  border-radius: 1em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.card-title {
+  text-align: center;
+  padding-top: 50px;
+  color: #222222;
+}
+
+.card-copy {
+  color: #222222;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 2px;
+  font-size: small;
+}
