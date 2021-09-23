@@ -1,9 +1,6 @@
 html,
 body {
-  background-color: #faf9f9;
-}
-.headline {
-  margin-top: 10%;
+  background-color: rgb(255, 255, 255);
 }
 
 h1,
@@ -14,15 +11,11 @@ h4 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p {
-  color: #222222;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center;
-  padding: 2px;
+a {
+  text-decoration: none;
 }
 
-.support-copy {
-  font-size: 20px;
+p {
   color: #222222;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
@@ -52,16 +45,30 @@ li a {
   font-size: 24px;
   display: block;
   color: #222222;
-  font-weight: medium;
+  font-weight: bold;
   text-align: left;
   padding: 15px 17px;
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 li a:hover {
   transition: 0.3s ease-in-out;
   color: #3786ec;
 }
+
+.headline {
+  margin-top: 10%;
+}
+
+.support-copy {
+  font-size: 20px;
+  color: #222222;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 2px;
+}
+
 .header {
   margin-top: 10vh;
   min-height: 80vh;
@@ -70,6 +77,7 @@ li a:hover {
   align-items: center;
   justify-content: center;
 }
+
 .headline {
   color: #222222;
   list-style: none;
@@ -86,6 +94,7 @@ li a:hover {
 }
 
 .fund-link {
+  font-size: 20px;
   text-decoration: none;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -97,6 +106,16 @@ li a:hover {
   margin-bottom: 10px;
 }
 
-a {
+.fund-link:hover {
+  font-size: 20px;
   text-decoration: none;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  background-color: #3785ece5;
+  color: white;
+  border-radius: 100px;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 10px;
+  transition: 0.3s ease-in-out;
 }
