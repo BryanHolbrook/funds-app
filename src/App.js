@@ -11,7 +11,7 @@ function App() {
       <nav>
         <ul>
           <li>
-          <Link className="logo-link" to="/">aumni</Link>
+          <Link className="logo-link" to="/">funds</Link>
           </li>
         </ul>
       </nav>

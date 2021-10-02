@@ -4,6 +4,6 @@ import App from "./App"
 
 test("renders fund app", () => {
   const { getByText } = render(<App />)
-  const headerElement = getByText(/Aumni Analyzed Funds/i)
+  const headerElement = getByText(/Blockchain Analyzed Funds/i)
   expect(headerElement).toBeInTheDocument()
 })

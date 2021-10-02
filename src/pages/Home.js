@@ -4,7 +4,7 @@ import FundsList from '../funds/FundsList'
 function Home() {
   return (
     <div>
-      <h1 className="headline">Aumni Funds</h1>
+      <h1 className="headline">Blockchain Funds</h1>
       <FundsList />
     </div>
   )
