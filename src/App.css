@@ -57,7 +57,7 @@ li a {
 
 li a:hover {
   transition: 0.3s ease-in-out;
-  color: #3786ec;
+  color: mediumorchid;
 }
 
 .headline {
@@ -88,8 +88,8 @@ li a:hover {
   max-width: 50vw;
 }
 
-.blue {
-  color: #3786ec;
+.brand {
+  color: mediumorchid;
 }
 
 .data-rule-a {

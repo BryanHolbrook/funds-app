@@ -1,6 +1,6 @@
 {
-  "short_name": "Aumni Frontend Coding Challenge",
-  "name": "Aumni Frontend Coding Challenge",
+  "short_name": "crypto-frontend",
+  "name": "Crypto Frontend",
   "icons": [
     {
       "src": "favicon.ico",

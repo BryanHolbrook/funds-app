@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Hane and Sons Ventures",
+    "name": "Satoshi Ventures",
     "companies": [
       {
         "id": 1,
         "name": "Greens Food Suppliers",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/1.svg",
+        "logo": "https://camo.githubusercontent.com/bae75bf297dd6a0e7990b8f0433b6a100119fdacfd529352ca3645540f263146/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f677265656e732d666f6f642d737570706c696572732e737667",
         "cost": 1700000,
         "ownershipPercentage": 0.34,
         "impliedValue": 5700000,
@@ -15,7 +15,7 @@
       {
         "id": 2,
         "name": "AutoSpeed",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/2.svg",
+        "logo": "https://camo.githubusercontent.com/c937764d63e19a845e557bff009556180c5ec811442256275cd9c24d111af42d/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f6175746f2d73706565642e737667",
         "cost": 3500000,
         "ownershipPercentage": 0.12,
         "impliedValue": 10000000,
@@ -24,7 +24,7 @@
       {
         "id": 3,
         "name": "Croft's Accountants",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/3.svg",
+        "logo": "https://camo.githubusercontent.com/5ad6341cefee0bdd8f17b067ad5a421d1cf5fa2aa17ed846db18f054036b8e66/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f63726f6674732d6163636f756e74616e74732e737667",
         "cost": 500000,
         "ownershipPercentage": 0.05,
         "impliedValue": 1500000,
@@ -34,12 +34,12 @@
   },
   {
     "id": 2,
-    "name": "Windler Group",
+    "name": "Winklevoss Block",
     "companies": [
       {
         "id": 4,
         "name": "Cheshire County",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/4.svg",
+        "logo": "https://camo.githubusercontent.com/7bed464c19a1f1083b333443d9903d5d1894d5dc69148391c112815807bcb002/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f63686573686972652d636f756e74792d68796769656e652d73657276696365732e737667",
         "cost": 250000,
         "ownershipPercentage": 0.12,
         "impliedValue": 2000000,
@@ -48,7 +48,7 @@
       {
         "id": 5,
         "name": "Fast Banana",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/5.svg",
+        "logo": "https://camo.githubusercontent.com/85b4e5fbb5fecd46465ae390f276729b0dd550a32d038de7f17025e1d7abbb9b/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f666173742d62616e616e612e737667",
         "cost": 3500000,
         "ownershipPercentage": 0.35,
         "impliedValue": 10000000,
@@ -58,12 +58,12 @@
   },
   {
     "id": 3,
-    "name": "Olson Ventures",
+    "name": "NFT Fund",
     "companies": [
       {
         "id": 6,
         "name": "Yoga Baby",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/6.svg",
+        "logo": "https://camo.githubusercontent.com/95fe54f793dee4a2c6c4ba97672f2504c5f400f7362bfe7574a2c2e0658b5737/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f796f67612d626162792e737667",
         "cost": 100000,
         "ownershipPercentage": 0.23,
         "impliedValue": 500000,
@@ -72,7 +72,7 @@
       {
         "id": 7,
         "name": "James & Sons",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/7.svg",
+        "logo": "https://camo.githubusercontent.com/7694fd55a20fc23c91553b8ad83560625b153ee1b7936142f6e5de09c63eab00/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f6a616d65732d616e642d736f6e732e737667",
         "cost": 5000000,
         "ownershipPercentage": 0.29,
         "impliedValue": 7500000,
@@ -81,7 +81,7 @@
       {
         "id": 8,
         "name": "The Dance Studio",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/8.svg",
+        "logo": "https://camo.githubusercontent.com/7fd05f0c6d33a68ce3f0d303b3041a3a43fabc15e9a5add6793517b07489ba86/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f7468652d64616e63652d73747564696f2e737667",
         "cost": 150000,
         "ownershipPercentage": 0.46,
         "impliedValue": 500000,
@@ -90,7 +90,7 @@
       {
         "id": 9,
         "name": "SpaceCube",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/9.svg",
+        "logo": "https://camo.githubusercontent.com/e19385fee37db869c2099e85771041abd20c973d1c8ab76c3212be3107d5232b/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f73706163652d637562652e737667",
         "cost": 600000,
         "ownershipPercentage": 0.02,
         "impliedValue": 1200000,
@@ -99,7 +99,7 @@
       {
         "id": 10,
         "name": "Baby Swim",
-        "logo": "https://aumni-public.s3.amazonaws.com/fake-logos-vector-color/10.svg",
+        "logo": "https://camo.githubusercontent.com/24bb80a1bd7ae86818e412a78843a38239f4665d53fcf5fcfd6856fa88fcb913/687474703a2f2f7069676d656e742e6769746875622e696f2f66616b652d6c6f676f732f6c6f676f732f766563746f722f677261797363616c652f626162792d7377696d2e737667",
         "cost": 360000,
         "ownershipPercentage": 0.28,
         "impliedValue": 780000,

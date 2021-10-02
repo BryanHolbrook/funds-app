@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 function Fund() {
   return (
     <div>
-      <h1 className="headline">Blockchain Analyzed Funds<span className="blue">.</span></h1>
+      <h1 className="headline">Blockchain Analyzed Funds<span className="brand">.</span></h1>
       {FundsData.map((fundDetail, index)=> {
         return (
           <div key={index}>

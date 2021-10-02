@@ -9,7 +9,7 @@ function FundsList({ funds }) {
   return (
     <div>
       <div>
-        <h1>{data.name}<span className="blue">.</span></h1>
+        <h1>{data.name}<span className="brand">.</span></h1>
         <div className="grid-container">
         {data.companies.map((company, index) => {
           return ( 
@@ -17,7 +17,7 @@ function FundsList({ funds }) {
               <img className="fund-logo" src={company.logo} alt="Company Logo"></img>
               <h4>{company.name}</h4>
               <hr className="data-rule-a"/>
-              <p className="card-copy">FOUNDED: <span className="blue">{company.founded}</span></p>
+              <p className="card-copy">FOUNDED: <span className="brand">{company.founded}</span></p>
               <p className="card-copy">COST: {company.cost}</p>
               <p className="card-copy">VALUE: {company.impliedValue}</p>
               <p className="card-copy">OWNERSHIP: {company.ownershipPercentage}%</p>

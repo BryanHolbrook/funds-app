@@ -11,7 +11,7 @@ function App() {
       <nav>
         <ul>
           <li>
-          <Link className="logo-link" to="/">funds</Link>
+          <Link className="logo-link" to="/">satoshi fund</Link>
           </li>
         </ul>
       </nav>
