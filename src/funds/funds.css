@@ -44,6 +44,7 @@
   align-items: center;
   justify-content: center;
   background-color: white 0.5;
+  border-color: mediumorchid;
 }
 
 .card-title {
