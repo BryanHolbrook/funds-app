@@ -18,8 +18,8 @@ function FundsList({ funds }) {
               <h4>{company.name}</h4>
               <hr className="data-rule-a"/>
               <p className="card-copy">FOUNDED: <span className="brand">{company.founded}</span></p>
-              <p className="card-copy">COST: {company.cost}</p>
-              <p className="card-copy">VALUE: {company.impliedValue}</p>
+              <p className="card-copy">COST (ETH): {company.cost}</p>
+              <p className="card-copy">VALUE (USD): {company.impliedValue}</p>
               <p className="card-copy">OWNERSHIP: {company.ownershipPercentage}%</p>
             </div>
           )
